@@ -1,3 +1,6 @@
+
+##############
+#################
 import tkinter as tk
 import google.generativeai as genai
 import random
